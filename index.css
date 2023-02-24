@@ -1,4 +1,8 @@
-.fondo {
-    width: 100%;
-
+body {
+    margin: 0;
+    background-image: url(fondo-netflix.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
 }
