@@ -72,7 +72,8 @@ body {
     }
     @media  (orientation : landscape) {
         body {
-            margin-bottom: 20%;
+            width: 100vw;
+            height: 100vh;
         }
     }
     
