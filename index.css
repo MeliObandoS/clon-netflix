@@ -71,3 +71,9 @@ body {
     font-weight: bolder;
     border-color: white;
     }
+    @media  (orientation : landscape) {
+        body {
+            margin-bottom: 20%;
+        }
+    }
+    
