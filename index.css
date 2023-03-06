@@ -2,7 +2,8 @@ body {
     background-image: url(fondo-netflix.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    height: 98vh;
+    height: 100vh;
+    overflow: hidden;
 }
 
 .tituloNetflix {
