@@ -59,12 +59,12 @@ body {
     min-width: 90px;
 }
 .email:hover{
-    background-color: white;
+    background-color: white ;
     opacity: 100%;
     font-weight: bold;
     border-color: rgb(112, 3, 3) ;
 }
-.boton:hover{
+.boton a:hover{
     background-color: rgb(112, 3, 3);
     color: white;
     font-weight: bolder;
@@ -75,5 +75,9 @@ body {
             width: 100vw;
             height: 100vh;
         }
+    }
+    a{
+        text-decoration: none;
+        color: black;
     }
     
